@@ -13,6 +13,7 @@ I migrate business-critical applications from data centers to Google Cloud, with
 | Project | What it shows |
 | --- | --- |
 | [gcp-gke-landing-zone](https://github.com/shivashankar-dev/gcp-gke-landing-zone) | Private regional GKE, modular Terraform, reusable GitHub Actions workflows, keyless deploys with Workload Identity Federation, Checkov-clean |
+| [ansible-middleware-roles](https://github.com/shivashankar-dev/ansible-middleware-roles) | Hardened Tomcat (Linux) and IIS (Windows) roles, Molecule-tested on Ubuntu 22.04/24.04 and Rocky 9, production-profile ansible-lint |
 
 ### Toolbox
 
